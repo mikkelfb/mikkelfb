@@ -11,7 +11,7 @@ Embedded PSoC:
 https://github.com/mikkelfb/P4_Vertical_farm
 
 5. semester - Avalanche rescue drone:
-https://github.com/magborresen/Avalanche-
+https://github.com/magborresen/Avalanche-Drone
 
 6. semester - Exploring Diversity Techniques for DECT Devices in Indoor Environments via. Simulation
 https://github.com/jbjjbjjbj/eittek651
